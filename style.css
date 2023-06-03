@@ -11,8 +11,8 @@ body {
   flex-direction: column;
   height: 100vh;
   font-family: "Montserrat", sans-serif;
-  color: rgb(255, 255, 255);
-  background-image: linear-gradient(50deg, #2365b1 0%, #3c186b 100%);
+  color: #ADFF2F;
+  background-image: linear-gradient(50deg, #191970 0%, #4682B4 100%);
   font-size: 20px;
 }
 
